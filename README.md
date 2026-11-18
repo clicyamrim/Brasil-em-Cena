@@ -128,7 +128,7 @@ Na página de detalhes, apresente como o filme se relaciona com os conteúdos de
 
 Utilize cards para apresentar os filmes, uma navegação simples e uma organização visual consistente entre as páginas. O objetivo é criar um protótipo visual funcional para demonstrar a proposta da plataforma, sem necessidade de implementar inicialmente o backend ou o banco de dados."
 
-O que foi aproveitado
+**O que foi aproveitado**
 
 Estrutura inicial das páginas.
 Componentes visuais e organização dos elementos.
